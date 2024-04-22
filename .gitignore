@@ -1,0 +1,10 @@
+node_modules
+node_modules
+public/logo.svg
+public/logo/trocah-logo.svg
+public/logo/trocah.svg
+emails/transfer.tsx
+emails/exchange-buyer.tsx
+emails/excahange-seller.tsx
+
+package-lock.json

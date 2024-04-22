@@ -1,0 +1,17 @@
+{
+  "name": "react-email-dev",
+  "version": "1.0.0",
+  "description": "a test-payground for react email",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "email dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-email/components": "0.0.16",
+    "react-email": "2.1.1",
+    "react-icons": "^5.0.1"
+  }
+}
